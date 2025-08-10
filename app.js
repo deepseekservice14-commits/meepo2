@@ -1,7 +1,7 @@
 // Configuration
 const YOUTUBE_API_KEYS = [
-    'AIzaSyDm6OH8Xp3225PsawrkySNYXGMLUPcJYb0',
-    'AIzaSyBv88-biJO-nnO00rznWNe5tdRxz6nE-yI',
+
+  
     'AIzaSyA1_s4dwAPtbLhN77codCf-cDK6ZMd_sxM',
     'AIzaSyCOevhCHf1xHkZCmjpOiQPPNhukHYqEkeU',
     'AIzaSyBlnZ4qrPgecLmM-WmjOWbd4aUdX2e_elE'
